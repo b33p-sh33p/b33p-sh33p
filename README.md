@@ -19,4 +19,4 @@ if you're going to  be working or interacting with me or anything, here's some t
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 
 ### where to reach me
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/b33p%20sh33p%231787-%237289DA.svg?style=flat&logo=discord&logoColor=white)
