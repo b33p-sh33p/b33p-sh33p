@@ -5,8 +5,6 @@ my name is connor, aka b33p-sh33p!
 
 :male_sign: i go by he/him pronouns.
 
-:speech_balloon: if you need to reach me, i am available on discord at `b33p sh33p#1787`
-
 :school: i don't really have any special qualifications or anything, i'm only 14 and nowhere near college. however, developing stuff on computers has been a big interest of mine since i was about 10!
 
 if you're going to  be working or interacting with me or anything, here's some things you should know:
@@ -19,3 +17,6 @@ if you're going to  be working or interacting with me or anything, here's some t
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
+
+### where to reach me
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white)
