@@ -16,9 +16,6 @@ if you're going to  be working or interacting with me or anything, here's some t
 ### mad skillz /j
 ![an image of the HTML 5 logo](./image/html.png "html")
 ![an image of the CSS 3 logo](./image/css.png "css")
-
 ![an image of the python logo](./image/python.png "python")
 ![an image of the bash logo](./image/bash.png "bash")
-
 ![an image of the linux logo/mascot](./image/linux.png "gnu/linux")
-![an image of the mac os logo](./image/macos.png "mac os")
