@@ -20,4 +20,4 @@ if you're going to  be working or interacting with me or anything, here's some t
 
 ### where to reach me
 ![Discord](https://img.shields.io/badge/b33p%20sh33p%231787-%237289DA.svg?style=flat&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/prosandconnors-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
