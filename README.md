@@ -14,8 +14,8 @@ if you're going to  be working or interacting with me or anything, here's some t
 - :rainbow_flag: i am part of the lgbtq+ community (transmasc & aroace). i will not tolerate homophobia (or any bigotry, for that matter).
 
 ### mad skillz /j
-![an image of the HTML 5 logo](./image/html.png "html")
-![an image of the CSS 3 logo](./image/css.png "css")
-![an image of the python logo](./image/python.png "python")
-![an image of the bash logo](./image/bash.png "bash")
-![an image of the linux logo/mascot](./image/linux.png "gnu/linux")
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
