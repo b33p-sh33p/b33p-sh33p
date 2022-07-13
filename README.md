@@ -5,7 +5,7 @@ my name is connor, aka b33p-sh33p!
 
 :transgender_symbol: i go by he/him pronouns.
 
-:school: i don't really have any special qualifications or anything, i'm only 14 and nowhere near college. however, developing stuff on computers has been a big interest of mine since i was about 10!
+:school: i don't really have any official qualifications or anything, i'm a minor and nowhere near college. however, working with computers has been a big interest of mine since i was about 10!
 
 if you're going to  be working or interacting with me or anything, here's some things you should know:
 - :infinity: i am on the autism spectrum. please have a bit of patience with me, especially if you are neurotypical.
