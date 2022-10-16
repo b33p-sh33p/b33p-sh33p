@@ -12,10 +12,11 @@ if you're going to  be working or interacting with me or anything, here's some t
 - :rainbow_flag: i am part of the lgbtq+ community (transmasc). i will not tolerate homophobia (or any sort of bigotry, for that matter).
 
 ### computer stuff that i know how to do
-![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Ren'py](https://img.shields.io/badge/ren'py-ff7f7f?style=flat&logo=renpy&logoColor=ffdd54)
 
 ### where to reach me
 ![Discord](https://img.shields.io/badge/connor%20the%20canoe%231787-%237289DA.svg?style=flat&logo=discord&logoColor=white)
