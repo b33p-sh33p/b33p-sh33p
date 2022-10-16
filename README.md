@@ -15,7 +15,7 @@ if you're going to  be working or interacting with me or anything, here's some t
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
 ### where to reach me
 ![Discord](https://img.shields.io/badge/b33p%20sh33p%231787-%237289DA.svg?style=flat&logo=discord&logoColor=white)
