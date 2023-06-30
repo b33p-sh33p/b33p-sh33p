@@ -13,4 +13,4 @@ right now, i'm not actively working on any personal projects.
 ![Ren'py](https://img.shields.io/badge/ren'py-ff7f7f?style=flat&logo=renpy&logoColor=ffdd54)
 
 ### where to reach me
-![Discord](https://img.shields.io/badge/connor%20the%20canoe%231787-%237289DA.svg?style=flat&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/connorthecanoe-%237289DA.svg?style=flat&logo=discord&logoColor=white)
