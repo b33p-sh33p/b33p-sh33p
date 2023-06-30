@@ -1,9 +1,9 @@
-## hello! 👋
-
 ### introduction
 my name is connor! my pronouns are he/him. i'm part of FRC team 6918.
 
 i've been involved in programming since i was about 10. i started with making games on scratch, and my main focuses currently are robotics and singing synthesizers (vocaloid, utau, etc.)
+
+right now, i'm not actively working on any personal projects.
 
 ### i know:
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
