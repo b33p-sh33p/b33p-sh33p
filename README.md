@@ -1,7 +1,7 @@
 ## hello! 👋
 
 ### introduction
-my name is connor! my pronouns are he/him.
+my name is connor! my pronouns are he/him. i'm part of FRC team 6918.
 
 i've been involved in programming since i was about 10. i started with making games on scratch, and my main focuses currently are robotics and singing synthesizers (vocaloid, utau, etc.)
 
